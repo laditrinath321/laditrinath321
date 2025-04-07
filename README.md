@@ -52,9 +52,11 @@ $ cat certifications.txt
 ---
 
 ## **📊 GitHub Stats & Real-Time Activity**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TrinathLadi&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TrinathLadi&theme=dark)
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=TrinathLadi&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=laditrinath321&theme=dark)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=laditrinath321&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laditrinath321&show_icons=true&theme=highcontrast)
 
 ---
 
