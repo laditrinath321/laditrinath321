@@ -58,6 +58,11 @@ $ cat certifications.txt
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laditrinath321&show_icons=true&theme=highcontrast)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laditrinath321&layout=compact&theme=tokyonight)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=laditrinath321&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+
 ---
 
 ## **🚀 Featured DevOps Projects**
