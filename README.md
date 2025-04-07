@@ -66,9 +66,9 @@ $ cat certifications.txt
 ---
 
 ## **🚀 Featured DevOps Projects**
-🔹 [**Next-Gen CI/CD with GitHub Actions, ArgoCD & Kubernetes**](https://github.com/your-repo)  
-🔹 [**Terraform Infrastructure on AWS (EKS, VPC, IAM)**](https://github.com/your-repo)  
-🔹 [**Jenkins & SonarQube Security-First Pipeline**](https://github.com/your-repo)  
+🔹 [**crewai-kubernetes-blog-agent**]([https://github.com/your-repo](https://github.com/laditrinath321/crewai-kubernetes-blog-agent.git))  
+🔹 [**AIops-Log-Analyzer**]([https://github.com/your-repo](https://github.com/laditrinath321/AIops-Log-Analyzer.git))  
+🔹 [**Terraform_Three_Tier_Project**]([https://github.com/your-repo](https://github.com/laditrinath321/Terraform_Three_Tier_Project.git))  
 
 ---
 
