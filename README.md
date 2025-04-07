@@ -68,7 +68,7 @@ $ cat certifications.txt
 ## **🚀 Featured DevOps Projects**
 🔹 [**crewai-kubernetes-blog-agent**]([(https://github.com/laditrinath321/crewai-kubernetes-blog-agent.git])  
 🔹 [**AIops-Log-Analyzer**]([(https://github.com/laditrinath321/AIops-Log-Analyzer.git])  
-🔹 [**Terraform_Three_Tier_Project**]([(https://github.com/laditrinath321/Terraform_Three_Tier_Project.git])  
+🔹 **Terraform_Three_Tier_Project**([(https://github.com/laditrinath321/Terraform_Three_Tier_Project.git])  
 
 ---
 
