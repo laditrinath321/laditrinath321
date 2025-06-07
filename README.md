@@ -23,10 +23,10 @@
 
 ```bash
 $ whoami
-👨‍💻 Trinath Ladi – DevOps Engineer | Cloud & Telco Expert
+👨‍💻 Trinath Ladi – DevOps Engineer | Cloud Expert
 
 $ cat skills.txt
-🔥 Cloud Computing - AWS | OpenStack | Telco Cloud
+🔥 Cloud Computing - AWS | GCP
 🔧 Containerization - Docker | Kubernetes | CNFs
 🛠️ CI/CD - GitHub Actions | Jenkins | ArgoCD | Terraform
 📡 Networking - VPC, NACLs, Load Balancers, Route 53
@@ -35,7 +35,7 @@ $ cat skills.txt
 
 $ cat certifications.txt
 ✅ Kubernetes & Docker (KodeKloud, Udemy)
-✅ AWS Cloud Practitioner (AWS Certified)
+✅ AWS Cloud Quest: Cloud Practitioner – AWS Skill Builder Badge
 ✅ OpenStack & NFV
 ```
 
